@@ -1,4 +1,4 @@
-**Keinsaas Navigator** - A better open-source AI chatbot for individuals and teams.
+**Haha Navigator** - A better open-source AI chatbot for individuals and teams.
 
 > Originally created by [Choi Sung Keun](https://github.com/cgoinglove).
 
